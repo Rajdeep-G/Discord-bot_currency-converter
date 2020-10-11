@@ -1,12 +1,12 @@
-### Discord Bot for Converting currency. 
+## Discord Bot for Converting currency. 
 
-# Description:
+### Description:
 
 This bot will give quick and easy converted value from one currency to the other.
 
-# Usage
+### Usage
 
-**The  commands must begin with %.**
+**The  commands must begin with a %.**
 
 ```%convert <amount> <from(optional)> <to(optional)>``` - To convert any amount from one currency to another
 
